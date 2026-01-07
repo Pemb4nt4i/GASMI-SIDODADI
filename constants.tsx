@@ -4,12 +4,12 @@ import { Member } from './types';
 export const INITIAL_MEMBERS: Member[] = [
   {
     id: '1',
-    name: 'Ahmad Subarjo',
-    pob: 'Jakarta',
+    name: 'ilyas',
+    pob: 'tuban',
     dob: '1990-05-15',
     parentNames: 'Budi & Siti',
     joinYear: 2015,
-    photoUrl: 'https://picsum.photos/seed/ahmad/400/400',
+    photoUrl: '/image/contoh.jpg',
     bio: 'Anggota senior aktif sejak 2015.'
   },
   {
